@@ -1,0 +1,15 @@
+{
+  "name": "basico-node",
+  "version": "1.0.0",
+  "description": "Este repositório contém exemplos e guias para iniciantes que desejam aprender os fundamentos do Node.js. É um ponto de partida para entender a plataforma Node.js, desenvolver aplicativos simples e aprender conceitos essenciais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
