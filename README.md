@@ -13,5 +13,6 @@ Este repositório contém exemplos e guias para iniciantes que desejam aprender 
 
 ## Pré-requisitos
 
-- Node.js instalado
-- HTTPie instalado
+- Node.js instalado.
+- HTTPie instalado.
+- API Rest (Ultilizado: API Dog).
