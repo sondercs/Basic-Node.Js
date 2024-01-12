@@ -1,18 +1,18 @@
-# Node.js - Fundamentos Básicos
+# Node.js - Basic Fundamentals
 
-Este repositório contém exemplos e guias para iniciantes que desejam aprender os fundamentos do Node.js. É um ponto de partida para entender a plataforma Node.js, desenvolver aplicativos simples e aprender conceitos essenciais.
+This repository contains examples and guides for beginners who want to learn the fundamentals of Node.js. It serves as a starting point for understanding the Node.js platform, developing simple applications, and learning essential concepts.
 
-## Tópicos Abordados
+## Covered Topics
 
-- Instalação e configuração do Node.js
-- Entendendo o sistema de módulos
-- Construção de aplicativos simples
-- Comunicação com APIs externas
-- Manipulação de arquivos
-- Uso de módulos nativos
+- Installation and configuration of Node.js
+- Understanding the module system
+- Building simple applications
+- Communicating with external APIs
+- File manipulation
+- Using native modules
 
-## Pré-requisitos
+## Prerequisites
 
-- Node.js instalado.
-- HTTPie instalado.
-- API Rest (Ultilizado: API Dog).
+- Installed Node.js
+- Installed HTTPie
+- Rest API (Used: Dog API)
